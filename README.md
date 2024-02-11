@@ -1,3 +1,9 @@
+# Commands
+### build
+npm run build
+### test build locally
+npx serve -s build
+
 # Resources
 ## Speech to text React implementation
 https://www.createit.com/blog/speech-to-text-streaming-demo-in-react/
